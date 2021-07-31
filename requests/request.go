@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/razorpay/razorpay-go/constants"
-	"github.com/razorpay/razorpay-go/errors"
+	"github.com/rebornkumar/razorpay-go/constants"
+	"github.com/rebornkumar/razorpay-go/errors"
 )
 
 //Auth holds the values required to authenticate the requests made to Razorpay APIs

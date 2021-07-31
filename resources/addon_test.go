@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/razorpay/razorpay-go/constants"
-	"github.com/razorpay/razorpay-go/utils"
+	"github.com/rebornkumar/razorpay-go/constants"
+	"github.com/rebornkumar/razorpay-go/utils"
 	"github.com/stretchr/testify/assert"
 )
 

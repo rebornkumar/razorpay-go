@@ -3,8 +3,8 @@ package resources
 import (
 	"fmt"
 
-	"github.com/razorpay/razorpay-go/constants"
-	"github.com/razorpay/razorpay-go/requests"
+	"github.com/rebornkumar/razorpay-go/constants"
+	"github.com/rebornkumar/razorpay-go/requests"
 )
 
 //Token ...
