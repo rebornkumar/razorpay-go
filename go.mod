@@ -4,4 +4,4 @@ go 1.14
 
 require github.com/stretchr/testify v1.5.1
 
-replace github.com/razorpay/razorpay-go v0.0.0 => github.com/rebornkumar/razorpay-go v0.0.5
+replace github.com/razorpay/razorpay-go v0.0.0 => github.com/rebornkumar/razorpay-go v0.0.6
